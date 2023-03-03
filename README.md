@@ -6,7 +6,4 @@ Minha primeira landing page.
 | -------------  | --- |
 | :sparkles: Nome        | **CodeFlow**
 | :label: Tecnologias | Html e CSS (tecnologias utilizadas)
-
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+| :camera: Img         | <img src="https://raw.githubusercontent.com/Thaliaraujo/codeflow/main/landingPage2/CodeFlow.png#vitrinedev" alt="vitrine.dev thumb" width="100%"/>
